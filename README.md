@@ -1,2 +1,11 @@
-# ViPER4Android-Personal-Updates
-Personal ViPER4Android signed updates with corresponding GPL source snapshots. No signing keys or phone data.
+# 蝰蛇个人版更新下载
+
+本仓库用于手机内检查和下载安装更新。每次发布包含固定签名安装包、更新清单、校验值和对应 GPL-3.0 源码快照。
+
+- 应用包名：com.zujiaf.viper4android。
+- 上游应用：https://github.com/likelikeslike/ViPER4Android ，基于 2.1.1。
+- 下载最新版：查看本仓库 Releases 页面，或在个人版设置里选择「检查个人版更新」。
+- 驱动独立安装，本仓库不分发或修改底层声音处理引擎。
+- 签名密钥、账户凭据、手机备份和个人调音数据不在发布内容内。
+
+每个 source.zip 都是该次安装包对应提交的完整应用源码，包含原许可证与构建脚本。
